@@ -1,0 +1,13 @@
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\bin\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.exe
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\bin\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.deps.json
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\bin\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.runtimeconfig.json
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\bin\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.runtimeconfig.dev.json
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\bin\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.dll
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\bin\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.pdb
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\obj\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.AssemblyInfoInputs.cache
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\obj\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.AssemblyInfo.cs
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\obj\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.csproj.CoreCompileInputs.cache
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\obj\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.dll
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\obj\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.pdb
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\obj\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.genruntimeconfig.cache
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\praktikum Aufgaben\praktikumAufgabe_blackJack\praktikumAufgabe_blackJack\obj\Debug\netcoreapp3.1\praktikumAufgabe_blackJack.csprojAssemblyReference.cache
